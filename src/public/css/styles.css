@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+/* Section Styles */
+.products-section {
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 2rem auto;
+    max-width: 1200px;
+}
+
+/* Header Styles */
+.products-section h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+/* Message Styles */
+.message {
+    font-size: 1rem;
+    color: #ff0000;
+    margin-bottom: 1rem;
+}
+
+/* Button Styles */
+.btn {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #007BFF;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Disabled Button Styles */
+.btn.disabled {
+    cursor: not-allowed;
+    background-color: #ccc;
+}
+
+/* Form Styles */
+.form-search {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.form-select {
+    margin-right: 1rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
+/* User Info Styles */
+.user-info {
+    margin-bottom: 2rem;
+}
+
+/* Products List Styles */
+.products-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.product {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1rem;
+    width: calc(33.333% - 1rem);
+    box-sizing: border-box;
+}
+
+.product img {
+    max-width: 100%;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.prev-button,
+.next-button {
+    margin: 0 0.5rem;
+}
+
+.actual-page {
+    font-size: 1rem;
+    color: #333;
+}

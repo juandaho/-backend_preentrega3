@@ -1,0 +1,51 @@
+[
+    {
+      "_id": "0a57cf4f-7bcd-4c9f-bf75-4746b7d09100",
+      "products": [
+        {
+          "product": {
+            "_id": "645ad02532d3d81586ef695c",
+            "title": "Smartphone Samsung Galaxy S21",
+            "description": "Potente smartphone con pantalla AMOLED de 6.2 pulgadas, procesador Exynos 2100 y 128GB de almacenamiento.",
+            "price": 79999,
+            "thumbnails": [
+              "1.jpg",
+              "2.jpg"
+            ],
+            "code": "SSG21",
+            "stock": 10,
+            "category": "Smartphones",
+            "status": true,
+            "__v": 0,
+            "id": "645ad02532d3d81586ef695c"
+          },
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "_id": "eecfab96-a248-44be-943d-fb1f1aac9da1",
+      "products": [
+        {
+          "product": {
+            "_id": "64616d730cccc6858fe3d6a9",
+            "title": "Zapatillas Asics",
+            "description": "Las mejores zapatillas del mercado, tus pies van a sentir la suavidad en cada paso.",
+            "price": 30000,
+            "thumbnails": [
+              "1.jpg",
+              "2.jpg"
+            ],
+            "code": "ZP001",
+            "stock": 13,
+            "category": "Calzado",
+            "status": true,
+            "__v": 0,
+            "id": "64616d730cccc6858fe3d6a9"
+          },
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+  

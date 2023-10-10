@@ -1,0 +1,24 @@
+[
+  {
+      "_id": "650386ccba7591216ea809b5",
+      "first_name": "admin",
+      "last_name": "admin",
+      "email": "admin@admin.com",
+      "age": 20,
+      "password": "$2b$10$8p1ggWh7uQFy30ysZq6M0u5RdS3Uj1p5QO4oyyCUqhsnfdQA3I.Kq",
+      "cart": "650386ccba7591216ea809b3",
+      "role": "admin",
+      "__v": 0
+  },
+  {
+      "_id": "65173dde2f1b613e8f5ea1cd",
+      "first_name": "user",
+      "last_name": "user",
+      "email": "user@user.com",
+      "age": 20,
+      "password": "$2b$10$alb7EuWbymqhlzzvzh0a/uKBIE0lodcZ5SGuwQZOzA7CljvzpOIje",
+      "cart": "65173dde2f1b613e8f5ea1cb",
+      "role": "user",
+      "__v": 0
+  }
+]

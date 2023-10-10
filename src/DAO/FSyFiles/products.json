@@ -1,0 +1,98 @@
+
+[
+    {
+      "_id": "645ad02532d3d81586ef695c",
+      "title": "Smartphone Samsung Galaxy S21",
+      "description": "Potente smartphone con pantalla AMOLED de 6.2 pulgadas, procesador Exynos 2100 y 128GB de almacenamiento.",
+      "price": 79999,
+      "thumbnails": [
+        "1.jpg",
+        "2.jpg"
+      ],
+      "code": "SSG21",
+      "stock": 10,
+      "category": "Smartphones",
+      "status": true,
+      "__v": 0,
+      "id": "645ad02532d3d81586ef695c"
+    },
+    {
+      "_id": "645ad02a32d3d81586ef6960",
+      "title": "Laptop Dell XPS 13",
+      "description": "Laptop ultradelgada con procesador Intel Core i7, pantalla InfinityEdge y 512GB de SSD.",
+      "price": 99999,
+      "thumbnails": [
+        "3.jpg"
+      ],
+      "code": "DXPS13",
+      "stock": 5,
+      "category": "Laptops",
+      "status": true,
+      "__v": 0,
+      "id": "645ad02a32d3d81586ef6960"
+    },
+    {
+      "_id": "645ad02d32d3d81586ef6964",
+      "title": "Cámara Sony Alpha A7 III",
+      "description": "Cámara mirrorless de alta calidad con sensor full-frame de 24.2MP y grabación de video 4K.",
+      "price": 84999,
+      "thumbnails": [
+        "5.jpg",
+        "6.jpg"
+      ],
+      "code": "CSA7III",
+      "stock": 8,
+      "category": "Cámaras",
+      "status": true,
+      "__v": 0,
+      "id": "645ad02d32d3d81586ef6964"
+    },
+    {
+      "_id": "645ad03732d3d81586ef6968",
+      "title": "Tablet Apple iPad Pro",
+      "description": "Tablet con pantalla Liquid Retina de 11 pulgadas, procesador M1 y soporte para Apple Pencil.",
+      "price": 109999,
+      "thumbnails": [
+        "4.jpg"
+      ],
+      "code": "AIPADPRO",
+      "stock": 12,
+      "category": "Tablets",
+      "status": true,
+      "__v": 0,
+      "id": "645ad03732d3d81586ef6968"
+    },
+    {
+      "_id": "645ad03b32d3d81586ef696c",
+      "title": "Auriculares Bose QuietComfort 45",
+      "description": "Auriculares con cancelación de ruido, sonido envolvente y hasta 24 horas de duración de la batería.",
+      "price": 19999,
+      "thumbnails": [
+        "7.jpg"
+      ],
+      "code": "BQC45",
+      "stock": 15,
+      "category": "Auriculares",
+      "status": true,
+      "__v": 0,
+      "id": "645ad03b32d3d81586ef696c"
+    },
+    {
+      "_id": "645ad03e32d3d81586ef6970",
+      "title": "Smartwatch Apple Watch Series 7",
+      "description": "Reloj inteligente con pantalla siempre activa, seguimiento de salud y resistencia al agua.",
+      "price": 21999,
+      "thumbnails": [
+        "8.jpg",
+        "9.jpg"
+      ],
+      "code": "AW7",
+      "stock": 18,
+      "category": "Smartwatches",
+      "status": true,
+      "__v": 0,
+      "id": "645ad03e32d3d81586ef6970"
+    }
+  ]
+  
+  

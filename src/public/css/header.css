@@ -1,0 +1,38 @@
+/* Estilo para el encabezado */
+header {
+    background-color: #3498db; /* Color azul */
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #2980b9; /* Borde inferior en un tono de azul más oscuro */
+    box-shadow: 0 4px 2px -2px gray; /* Sombra sutil para dar profundidad */
+}
+
+/* Estilo para la navegación */
+.nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+/* Estilo para los elementos de la navegación */
+.link-item {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px;
+    color: #ecf0f1; /* Color de texto claro */
+    border-radius: 4px; /* Esquinas redondeadas */
+    transition: background-color 0.3s ease; /* Transición suave para el efecto hover */
+}
+
+/* Efecto hover para los elementos de la navegación */
+.link-item:hover {
+    background-color: #2980b9; /* Color de fondo al pasar el ratón en un tono de azul más oscuro */
+}
+
+/* Ajustes para el formulario de inicio de sesión */
+.login-form {
+    float: right;
+}
